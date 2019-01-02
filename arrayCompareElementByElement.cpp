@@ -22,12 +22,12 @@ int main ()
     {
       if (a[j] == b[j])
 	    {
-	    cout << "Element " << j <<" are identical in both arrays." << endl;
+	    cout << "Index " << j <<" are identical in both arrays." << endl;
 	    }
 
        else
 	    {
-	      cout << "Element " << j << " are not identical in both arrays." << endl;
+	      cout << "Index " << j << " are not identical in both arrays." << endl;
 	    }
     }
   system ("pause");
