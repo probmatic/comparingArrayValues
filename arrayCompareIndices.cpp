@@ -1,5 +1,5 @@
 /*probmatic*/
-/*Compare if two arrays have the same element values*/
+/*Compare if two arrays have the same element value in a specific index in the array*/
 /*!!!ORDER MATTERS!!!*/
 
 #include <iostream>
