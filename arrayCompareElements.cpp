@@ -26,10 +26,10 @@ int main ()
     {
     for (int j = 0; j < n; j++)
       {
-      if (a[j] == b[j])
-	      {
-	      cout << "Element " << a[j] <<" is found in both arrays." << endl;
-	      }
+      	if (a[j] == b[j])
+      	{
+	cout << "Element " << a[j] <<" is found in both arrays." << endl;
+     	}
       }
     }
 
